@@ -1,7 +1,7 @@
 document.addEventListener(
-  "DOMContentLoaded",
+  'DOMContentLoaded',
   () => {
-    console.log("basic-auth JS imported successfully!");
+    console.log('basic-auth JS imported successfully!')
   },
   false
-);
+)
